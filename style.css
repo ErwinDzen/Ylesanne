@@ -1,0 +1,36 @@
+<!--Найти ошибки в коде и исправить их-->
+
+body(
+background-color: yellow;
+font-family: sans-serif, Helvetica, Arial;
+background-repeat: repeat-x;
+backgroundposition: bottom;
+}
+h1{
+text-align: center;
+letter-spacing: 0.6cm;
+color: yellow;
+)
+#tabel{
+float: left;
+}
+#logo{
+float: right;
+}
+
+table{
+
+border:0;
+width: 1000px.
+
+})
+td{
+text-align: center,
+background-color: d8d8d8;
+border:10px
+border-style: double;
+border-color: #a8a8a8,
+border-radiu: 20px 10px 20px 20px;
+margin: 20px;
+pading: 10px;
+}
